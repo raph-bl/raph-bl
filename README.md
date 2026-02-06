@@ -7,5 +7,3 @@ Outside of my development work, I stay active by regularly practicing sports, re
 # What can I Do ?
 
 I have a wide range of skills but here is what I really master.
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raph-bl)](https://git.io/streak-stats)
