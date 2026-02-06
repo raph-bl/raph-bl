@@ -8,4 +8,4 @@ Outside of my development work, I stay active by regularly practicing sports, re
 
 I have a wide range of skills but here is what I really master.
 <br>
-[![Raph's GitHub stats](https://github-readme-stats.vercel.app/api?username=raph-bl)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raph-bl)](https://git.io/streak-stats)
