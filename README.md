@@ -6,5 +6,3 @@ Outside of my development work, I stay active by regularly practicing sports, re
 
 > [!NOTE]
 > Check my portfolio at www.raphael-bl.fr !
-
-# Languages
