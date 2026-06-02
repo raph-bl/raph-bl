@@ -1,14 +1,17 @@
-<img width="1584" height="396" alt="ban" src="https://github.com/user-attachments/assets/90c40e75-1287-4f60-bd01-e4efa85f7944" />
+<img width="1584" height="396" alt="Copie de LinkedIn Banner" src="https://github.com/user-attachments/assets/b3b87a6a-5b81-468c-96c3-a63c8f8992ce" />
 
 ---
-  <p align="center">
-    "Vanitas vanitatum et omnia vanitas"
-  </p>
+
+<div align = "center"> 
+  Software Engineering student specializing in Cybersecurity and Data Science at Epitech Montpellier. Passionate about cybersecurity, system development, and low-level programming, with experience ranging from game modding to assembly language projects.
+</div>
+
+<br>
 
 > [!NOTE]
 > Check my portfolio at www.raphael-bl.fr !
 
-# Languages
+## Stack
 
 <div align="center">
 <table>
@@ -90,7 +93,7 @@
 </table>
 </div>
 
-# Contact
+## Contact
 
 <div align="center">
 
