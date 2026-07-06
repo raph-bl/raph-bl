@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Copie de LinkedIn Banner" src="https://github.com/user-attachments/assets/b3b87a6a-5b81-468c-96c3-a63c8f8992ce" />
+<img width="1584" height="396" alt="gitbanner" src="https://github.com/user-attachments/assets/13b153b1-ec1e-4210-a02f-533fee8468a8" />
 
 ---
 
